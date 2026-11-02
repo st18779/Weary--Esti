@@ -11,3 +11,6 @@ __pycache__/
 
 # Runtime state (recreated on each run)
 state/
+
+# Personal study notes
+GUIDE.md
